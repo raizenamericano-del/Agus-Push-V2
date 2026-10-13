@@ -1,0 +1,21 @@
+{
+  "name": "Zip2Repo — ZIP ke GitHub Repo Otomatis",
+  "short_name": "Zip2Repo",
+  "description": "Upload ZIP jadi repo GitHub otomatis + dashboard repo manager.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070714",
+  "theme_color": "#070714",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-glow.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
